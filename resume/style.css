@@ -113,7 +113,7 @@ img {
     .resume .resume_left .resume_skills ul li {
         display: flex;
         margin-bottom: 15px;
-        color: beige;
+        color: black;
         justify-content: space-between;
         align-items: center;
     }
@@ -142,7 +142,7 @@ img {
             background: black;
         }
 
-    .resume .resume_left .resume_social .semi-bold {
+    .resume .resume_left .resume_social  {
         color: #fff;
         margin-bottom: 3px;
     }
